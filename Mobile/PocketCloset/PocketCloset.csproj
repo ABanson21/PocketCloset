@@ -14,7 +14,7 @@
     <PackageReference Include="CarouselView.FormsPlugin" Version="5.2.0" />
     <PackageReference Include="font-awesome" Version="4.7.0" />
     <PackageReference Include="FontAwesome" Version="4.7.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="SixLabors.ImageSharp.Drawing" Version="1.0.0-beta0007" />
     <PackageReference Include="SkiaSharp" Version="1.68.2-preview.60" />
     <PackageReference Include="SkiaSharp.Views" Version="1.68.2-preview.60" />
